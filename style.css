@@ -1,3 +1,16 @@
 h1 {
     color: green;
+    margin-bottom: -20px;
+    margin-top: -10px;
+    font-size: 50px;
 }
+
+h2 {
+    font-size: 30px;
+}
+
+.information {
+    p {
+        font-size: 20px;
+    }
+}   
